@@ -10,7 +10,7 @@
 
 [侯志强](https://github.com/hou1183633065/web_organize_notes)
 
-[王斐]（https://github.com/AirrWang/TechnologyStack）
+[王斐](https://github.com/AirrWang/TechnologyStack)
 
 [张明](https://github.com/laomayuxiaoma/-)
 
